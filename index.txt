@@ -1,0 +1,71 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Richard hanrick
+Richard hanrick
+Web developer
+
+Show Contacts
+
+Email
+abdouboudjo1@gmail.com
+
+Phone
+0661670024
+
+Birthday
+03/03/2006
+
+Location
+kolea,algeria
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
